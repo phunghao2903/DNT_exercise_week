@@ -14,7 +14,8 @@ Xây dựng ứng dụng cross-platform bằng **Vite + React + Capacitor**, hi�
 ---
 ## 📸 Screenshot
 
-![Device Dashboard Screenshot](./assets/screenshot.png)
+![Device Dashboard Screenshot](./assets/screenshot.png) 
+![Device Dashboard Screenshot](./assets/screenshot2.png) 
 
 ## ✅ Yêu cầu đã hoàn thành
 
