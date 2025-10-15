@@ -13,12 +13,12 @@ Có 2 tab chính:
 
 <p align="center">
 
-  <img src="./assets/home.jpg" width="220" style="margin-right:10px;" />
-  <img src="./assets/add_note.jpeg" width="220" style="margin-right:10px;" />
-  <img src="./assets/gallery.jpeg" width="220" style="margin-right:10px;" />
-  <img src="./assets/save_image.jpg" width="220" style="margin-right:10px;" />
-  <img src="./assets/share_image.jpeg" width="220" style="margin-right:10px;" />
-  <img src="./assets/update_note.jpg" width="220" />
+  <img src="./assets/home.jpg" width="240" style="margin-right:10px;" />
+  <img src="./assets/add_note.jpeg" width="240" style="margin-right:10px;" />
+  <img src="./assets/gallery.jpeg" width="240" style="margin-right:10px;" />
+  <img src="./assets/save_image.jpg" width="240" style="margin-right:10px;" />
+  <img src="./assets/share_image.jpeg" width="240" style="margin-right:10px;" />
+  <img src="./assets/update_note.jpg" width="240" />
 </p>
 
 ---
