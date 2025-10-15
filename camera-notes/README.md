@@ -9,37 +9,39 @@ Có 2 tab chính:
 
 ---
 
-## 🧩 Giới thiệu nhanh
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+## 🧩 Giao diện ứng dụng
+
+<p align="center">
   <!-- Hàng 1 -->
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/home.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>Trang chủ</figcaption>
+    <figcaption>🏠 Trang chủ – Giao diện chính với hai tab: Camera và Gallery</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/add_note.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>Thêm ghi chú</figcaption>
+    <figcaption>📝 Thêm ghi chú – Nhập caption sau khi chụp ảnh</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/gallery.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>Xem Gallery</figcaption>
+    <figcaption>🖼️ Gallery – Hiển thị danh sách ảnh đã chụp kèm caption</figcaption>
   </figure>
 </p>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<p align="center">
   <!-- Hàng 2 -->
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/save_image.jpg" width="240" style="border-radius:10px;"/>
-    <figcaption>Lưu ảnh</figcaption>
+    <figcaption>💾 Lưu ảnh – Lưu ảnh vào MediaLibrary của thiết bị</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/share_image.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>Chia sẻ</figcaption>
+    <figcaption>🔗 Chia sẻ – Gửi ảnh qua các ứng dụng khác</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:15px; text-align:center;">
+  <figure style="display:inline-block; margin:12px; text-align:center;">
     <img src="./assets/update_note.jpg" width="240" style="border-radius:10px;"/>
-    <figcaption>Chỉnh sửa</figcaption>
+    <figcaption>✏️ Chỉnh sửa – Cập nhật caption hoặc xoá ảnh</figcaption>
   </figure>
 </p>
 
