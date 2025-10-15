@@ -11,33 +11,35 @@ Có 2 tab chính:
 
 ## 🧩 Giới thiệu nhanh
 
-<p align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/home.jpeg" width="220"/>
-    <figcaption align="center">Trang chủ</figcaption>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Hàng 1 -->
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/home.jpeg" width="240" style="border-radius:10px;"/>
+    <figcaption>Trang chủ</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/add_note.jpeg" width="220"/>
-    <figcaption align="center">Thêm ghi chú</figcaption>
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/add_note.jpeg" width="240" style="border-radius:10px;"/>
+    <figcaption>Thêm ghi chú</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/gallery.jpeg" width="220"/>
-    <figcaption align="center">Xem Gallery</figcaption>
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/gallery.jpeg" width="240" style="border-radius:10px;"/>
+    <figcaption>Xem Gallery</figcaption>
   </figure>
 </p>
 
-<p align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/save_image.jpg" width="220"/>
-    <figcaption align="center">Lưu ảnh</figcaption>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Hàng 2 -->
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/save_image.jpg" width="240" style="border-radius:10px;"/>
+    <figcaption>Lưu ảnh</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/share_image.jpeg" width="220"/>
-    <figcaption align="center">Chia sẻ</figcaption>
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/share_image.jpeg" width="240" style="border-radius:10px;"/>
+    <figcaption>Chia sẻ</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./assets/update_note.jpg" width="220"/>
-    <figcaption align="center">Chỉnh sửa</figcaption>
+  <figure style="display:inline-block; margin:15px; text-align:center;">
+    <img src="./assets/update_note.jpg" width="240" style="border-radius:10px;"/>
+    <figcaption>Chỉnh sửa</figcaption>
   </figure>
 </p>
 
