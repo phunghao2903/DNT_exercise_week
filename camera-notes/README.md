@@ -13,7 +13,7 @@ Có 2 tab chính:
 
 <p align="center">
 
-  <img src="./assets/home.jpeg" width="220" style="margin-right:10px;" />
+  <img src="./assets/home.jpg" width="220" style="margin-right:10px;" />
   <img src="./assets/add_note.jpeg" width="220" style="margin-right:10px;" />
   <img src="./assets/gallery.jpeg" width="220" style="margin-right:10px;" />
   <img src="./assets/save_image.jpg" width="220" style="margin-right:10px;" />
