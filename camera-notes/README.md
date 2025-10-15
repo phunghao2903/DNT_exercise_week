@@ -9,42 +9,17 @@ Có 2 tab chính:
 
 ---
 
-
-
-## 🧩 Giao diện ứng dụng
+## 🧩 Giới thiệu nhanh
 
 <p align="center">
-  <!-- Hàng 1 -->
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/home.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>🏠 Trang chủ – Giao diện chính với hai tab: Camera và Gallery</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/add_note.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>📝 Thêm ghi chú – Nhập caption sau khi chụp ảnh</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/gallery.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>🖼️ Gallery – Hiển thị danh sách ảnh đã chụp kèm caption</figcaption>
-  </figure>
-</p>
 
-<p align="center">
-  <!-- Hàng 2 -->
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/save_image.jpg" width="240" style="border-radius:10px;"/>
-    <figcaption>💾 Lưu ảnh – Lưu ảnh vào MediaLibrary của thiết bị</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/share_image.jpeg" width="240" style="border-radius:10px;"/>
-    <figcaption>🔗 Chia sẻ – Gửi ảnh qua các ứng dụng khác</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:12px; text-align:center;">
-    <img src="./assets/update_note.jpg" width="240" style="border-radius:10px;"/>
-    <figcaption>✏️ Chỉnh sửa – Cập nhật caption hoặc xoá ảnh</figcaption>
-  </figure>
+  <img src="./assets/home.jpeg" width="220" style="margin-right:10px;" />
+  <img src="./assets/add_note.jpeg" width="220" style="margin-right:10px;" />
+  <img src="./assets/gallery.jpeg" width="220" style="margin-right:10px;" />
+  <img src="./assets/save_image.jpg" width="220" style="margin-right:10px;" />
+  <img src="./assets/share_image.jpeg" width="220" style="margin-right:10px;" />
+  <img src="./assets/update_note.jpg" width="220" />
 </p>
-
 
 ---
 
