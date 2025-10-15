@@ -12,12 +12,35 @@ Có 2 tab chính:
 ## 🧩 Giới thiệu nhanh
 
 <p align="center">
-  <img src="./assets/add_note.jpeg" width="180" style="margin-right:10px;" />
-  <img src="./assets/gallery.jpeg" width="180" style="margin-right:10px;" />
-  <img src="./assets/save_image.jpg" width="180" style="margin-right:10px;" />
-  <img src="./assets/share_image.jpeg" width="180" style="margin-right:10px;" />
-  <img src="./assets/update_note.jpg" width="180" />
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/home.jpeg" width="220"/>
+    <figcaption align="center">Trang chủ</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/add_note.jpeg" width="220"/>
+    <figcaption align="center">Thêm ghi chú</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/gallery.jpeg" width="220"/>
+    <figcaption align="center">Xem Gallery</figcaption>
+  </figure>
 </p>
+
+<p align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/save_image.jpg" width="220"/>
+    <figcaption align="center">Lưu ảnh</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/share_image.jpeg" width="220"/>
+    <figcaption align="center">Chia sẻ</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./assets/update_note.jpg" width="220"/>
+    <figcaption align="center">Chỉnh sửa</figcaption>
+  </figure>
+</p>
+
 
 ---
 
