@@ -12,7 +12,7 @@
 ## 🛠️ Công nghệ & kiến trúc
 - Flutter + Dart (Material 3, `StatefulWidget`, `ListView.builder`, `setState`).
 - Lưu trữ local bằng `shared_preferences`.
-- Kiểm thử widget với `flutter_test` và mock `SharedPreferences`.
+- Mock `SharedPreferences`.
 
 ## 🚀 Bắt đầu
 ### Yêu cầu
@@ -37,7 +37,7 @@ flutter test
 ## 🗂️ Cấu trúc thư mục chính
 - `lib/main.dart`: Toàn bộ logic UI & xử lý Todo (thêm, sửa trạng thái, xóa, lưu trữ).
 - `assets/`: Hình ảnh UI dùng cho tài liệu.
-- `test/widget_test.dart`: Kiểm thử quy trình thêm và hoàn thành công việc.
+
 
 ## 🖼️ Giao diện minh họa
 | Màn hình danh sách | Thêm công việc |
