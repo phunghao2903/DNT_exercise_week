@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983886489871",
+    "project_id": "fir-login-app-497a3",
+    "storage_bucket": "fir-login-app-497a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983886489871:android:d96e051e0cbdfc9d17367a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnaF1rQOcIXNaOZyKQmzm_D5FLkSzJYHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

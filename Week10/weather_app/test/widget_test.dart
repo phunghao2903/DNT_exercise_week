@@ -1,30 +1,35 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:weather_app/main.dart';
+import 'package:weather_app/models/hourly_point.dart';
+import 'package:weather_app/models/weather.dart';
+import 'package:weather_app/widgets/current_weather_card.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+  testWidgets(
+    'CurrentWeatherCard renders weather information',
+    (tester) async {
+      final weather = Weather(
+        latitude: 51.5,
+        longitude: -0.12,
+        time: DateTime(2024, 1, 1, 12, 30),
+        temperature: 18.2,
+        windSpeed: 4.5,
+        windDirectionDeg: 90,
+        weatherCode: 0,
+        conditionLabel: 'Clear sky',
+        hourly: <HourlyPoint>[],
+      );
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+      await tester.pumpWidget(MaterialApp(
+        theme: ThemeData(useMaterial3: true),
+        home: Scaffold(
+          body: CurrentWeatherCard(weather: weather),
+        ),
+      ));
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
-
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
-  });
+      expect(find.textContaining('18.2°C'), findsOneWidget);
+      expect(find.text('Clear sky'), findsOneWidget);
+      expect(find.textContaining('Lat'), findsOneWidget);
+    },
+  );
 }
