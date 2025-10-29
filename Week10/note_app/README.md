@@ -1,16 +1,24 @@
-# note_app
+# Note App
 
-A new Flutter project.
+Ứng dụng ghi chú đơn giản được xây dựng với Flutter, hỗ trợ tạo, cập nhật và xóa ghi chú ngay trên thiết bị.
 
-## Getting Started
+## Tính năng
+- Tạo ghi chú mới với tiêu đề và nội dung
+- Cập nhật hoặc xóa ghi chú đã có
+- Danh sách hiển thị ngay khi mở ứng dụng nhờ lưu trữ cục bộ
 
-This project is a starting point for a Flutter application.
+## Công nghệ sử dụng
+- `Provider` và `ChangeNotifier` cho state management
+- `TextField` để nhập tiêu đề và nội dung ghi chú
+- `FloatingActionButton` cho hành động tạo và lưu nhanh
 
-A few resources to get you started if this is your first Flutter project:
+## Giao diện
+![Danh sách ghi chú](assets/ui1.png)
+![Chi tiết ghi chú](assets/ui2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Bắt đầu
+1. Cài đặt [Flutter](https://docs.flutter.dev/get-started/install).
+2. Chạy `flutter pub get` để tải các gói phụ thuộc.
+3. Khởi động ứng dụng bằng `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
